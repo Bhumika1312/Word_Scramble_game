@@ -9,11 +9,11 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Description 📃
+## Description
 
 Welcome to the Simple Word Scramble Game! It's straightforward yet addictively fun. Just unscramble the letters to reveal the hidden words. With each correct answer, you'll feel a rush of satisfaction as you unlock new levels. Perfect for quick bursts of entertainment or a relaxing challenge anytime, anywhere. The game aims to challenge players' vocabulary and word unscrambling skills while providing an engaging and interactive experience. Dive in and test your word skills with this easy-to-play game!
 
-## Functionalities 🎮
+## Functionalities
 
 The game consists of the following functionalities:
 
@@ -25,7 +25,7 @@ The game consists of the following functionalities:
 6. The game progresses through levels, with each level presenting increasingly difficult words. The time limit for each word decreases as the level increases.
 7. This is a single-player game.
 
-## How to Play? 🕹️
+## How to Play? 
 
 1. Upon visiting the website, you'll be greeted with a welcome screen.
 2. By clicking "Play Now," you'll be redirected to the game page.
@@ -34,7 +34,7 @@ The game consists of the following functionalities:
 5. The game continues until all lives are finished.
 6. After completing, you'll receive your final score and the level cleared. Your score is based on the number of correct answers.
 
-## Screenshots 📸
+## Screenshots
 
 ### Home Page
 ![Home Page](assets/1.png)
