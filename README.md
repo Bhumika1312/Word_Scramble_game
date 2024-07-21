@@ -43,3 +43,12 @@ Game consists of following functionalities :
 <img src = "assets\4.png"></img>
 <h1>Game Over</h1>
 <img src = "assets\5.png"></img>
+
+# Author
+
+**Bhumika Bhatt**
+
+## Message from PA
+
+Thank you for visiting Word Scramble Game💝
+</br>Feel free to explore the code, contribute, and provide feedback.
