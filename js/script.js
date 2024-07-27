@@ -18,10 +18,10 @@ let correctWord, timer, score = 0, lives = 3, hintUsed = false, level = 1;
 let correctAnswersInLevel = 0;
 let timeLeft = 30;
 
-const correctSound = new Audio('assets/correct.mp3');
-const incorrectSound = new Audio('assets/incorrect.mp3');
-const timeoutSound = new Audio('assets/timeout.mp3');
-const clappingSound = new Audio('assets/game_over.mp3');
+const correctSound = new Audio('../assets/correct.mp3');
+const incorrectSound = new Audio('../assets/incorrect.mp3');
+const timeoutSound = new Audio('../assets/timeout.mp3');
+const clappingSound = new Audio('../assets/game_over.mp3');
 
 
 const initTimer = maxTime => {
@@ -141,7 +141,7 @@ hintBtn.addEventListener("click", giveHint);
 // Event listener for the game over button
 gameOverBtn.addEventListener("click", () => {
     // Redirect to the welcome page (index.html)
-    window.location.href = 'index.html';
+    window.location.href = '../index.html';
 });
 
 // Event listener for Enter key press
